@@ -44,7 +44,7 @@ We try hard to keep the competition as free and exciting as possible; however, w
 * [FetchOrbisX](https://blog.rockhouse.dev/2023/12/20/wargames-my-2023/)
 
 ## Student Category
-* [☆*:.｡. o(≧▽≦)o .｡.:*☆](writeup/☆.｡. o(≧▽≦)o .｡.☆.md)
+* [ ☆*:.｡. o(≧▽≦)o .｡.:*☆ ](writeup/file1.md)
 * [CSI](https://medium.com/@muhammadnafiz2017/write-up-cryptography-and-pwn-challenges-on-wargames-my-2023-capture-the-flag-ea1b890b070b ) - [PART 2](https://naufalardhani.medium.com/wargames-my-ctf-2023-web-writeup-83bc56862706) - [PART3](https://medium.com/@dhianitas/wargames-my-2023-writeup-for-forensic-misc-and-ppc-900f2b5d054e)
 * [iMonkee Pro Max](https://mechfrog88.github.io/wargames-2023) - [PART 2](https://davidtan0527.github.io/ctfs/wargamesmy2023/magic_door)
 * [GPT-110](https://github.com/rixinsc/ctf-writeups/blob/master/wgmy2023.md) - [PART 2](writeup/GPT-110.pdf)
