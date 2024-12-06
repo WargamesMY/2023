@@ -52,21 +52,17 @@ We try hard to keep the competition as free and exciting as possible; however, w
 
 #### Participants
 * [Shroomish](https://w0rmhol3.netlify.app/2023/12/17/splice/. )
-* [zeynarz](https://zeynarz.github.io/posts/wgmy23/)
+* [zeynarz](https://zh1ren.github.io/posts/wgmy23/)
 * [caprinux](https://hackmd.io/@capri/BkeRmUo8T)
 * [vicevirus](https://vicevirus.github.io/posts/warmupweb-wgmy-2023/)
 * [sud0su._](writeup/sud0su._.pdf)
 * [Jerit3787](https://ctf.danplace.tech/posts/wargamesmy-2023-writeup/)
-* [hijacking](https://github.com/ChaiChengXun2/StudentWarGame2023/tree/main)
-* [d0ublew](https://d0ublew.github.io/categories/wgmy2023/.)
+* [d0ublew](https://d0ublew.github.io/writeups/wgmy2023/index.html)
 * [jasonpeh](https://github.com/jasonpeh373/Wargame2023-RE)
-* [seefuruz](https://github.com/ItsZer01/CTF-Writeup/blob/main/2023/Wgmy2023.md)
 * [apikmeister](https://apik.me/blog/wgmy-compromised)
 * [arifpeycal](https://github.com/ArifPeycal/Wargames2023-Writeups/tree/main/Sayur)
 * [Cheese-Of-Truth](https://github.com/Cheese-Of-Truth/WGMY2023)
-* [0hanif0](https://github.com/0hanif0/WGMY2023CTF-Writeups)
-* [heckintosh](https://heckintosh.github.io/competitions/wgmy2023/)
-* [0hanif0](https://github.com/0hanif0/WGMY2023CTF-Writeups)
+* [heckintosh](https://heckintosh.github.io/competitions/wargamesmy/)
 
 #### Author
 * [Stephen](https://hong5489.github.io/2023-12-23-wgmy2023/)
@@ -87,14 +83,14 @@ We try hard to keep the competition as free and exciting as possible; however, w
 ### Sponsors
 <p align="center">
 <a href="https://www.netbytesec.com/">
-    <image src="logo/nbs.png" height="180">
+    <image src="logo/nbs.png" height="100">
 </a>
 <a href="https://www.ask-pentest.com/">
-    <image src="logo/askpentest.png" height="180">
+    <image src="logo/askpentest.png" height="100">
 </a>
 <a href="https://www.rehack.xyz/home/">
-    <image src="logo/rehack.png" height="180">
+    <image src="logo/rehack.png" height="100">
 </a>
 <a href="https://fenrirsolution.com/">
-    <image src="logo/fenrir.png" height="180">
+    <image src="logo/fenrir.png" height="100">
 </a>
